@@ -1,3 +1,10 @@
-body{
-  background-color: aliceblue;
+.cor-de-fundo {
+  background-color: blueviolet;
 }
+
+.margem {
+  margin: 80px;
+}
+.centralizado{
+    text-align: center;
+  }
